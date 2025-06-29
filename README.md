@@ -19,6 +19,9 @@ File "asymmetry-attributes" contains the same 1.200 pairs from the two files des
 If you use this data, please, cite [1].
 
 [1]  Strakatova, Yana (to appear): Lexical-Semantic Modeling of Adjectve-Noun Co-occurrences. Ph.D. Dissertation. Tübingen
+
 [2] Daniël de Kok and Sebastian Pütz. 2019. Stylebook for the Tübingen Treebank of Dependency-parsed German (TüBa-D/DP). Seminar für Sprachwissenschaft, Universität Tübingen, Tübingen, Germany.
+
 [3] Roland Schäfer. 2015. Processing and querying large web corpora with the COW14 architecture. In Proceedings of Challenges in the Management of Large Corpora 3 (CMLC-3), Lancaster. UCREL, IDS.
+
 [4] Roland Schäfer and Felix Bildhauer. 2012. Building large corpora from the web using a new efficient tool chain. In Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC’12), pages 486–493, Istanbul, Turkey. European Language Resources Association (ELRA).
