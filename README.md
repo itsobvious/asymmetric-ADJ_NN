@@ -18,7 +18,7 @@ File "asymmetry-attributes" contains the same 1.200 pairs from the two files des
 
 If you use this data, please, cite [1].
 
-[1]  Strakatova, Yana (to appear): Lexical-Semantic Modeling of Adjectve-Noun Co-occurrences. Ph.D. Dissertation. Tübingen
+[1]  Strakatova, Yana (2025): Lexical-Semantic Modeling of Adjectve-Noun Co-occurrences. Ph.D. Dissertation. Tübingen
 
 [2] Daniël de Kok and Sebastian Pütz. 2019. Stylebook for the Tübingen Treebank of Dependency-parsed German (TüBa-D/DP). Seminar für Sprachwissenschaft, Universität Tübingen, Tübingen, Germany.
 
